@@ -10,6 +10,12 @@ topper and calculates the class average and pass rate.
 Open `index.html` in a modern browser. There is no build step or package
 installation.
 
+## Publish with GitHub Pages
+
+The repository's `main` branch deploys through the workflow in
+`.github/workflows/deploy-pages.yml`. GitHub Pages uses GitHub Actions as its
+publishing source.
+
 ## Rules
 
 - Five subjects: Mathematics, Science, English, Computer, and Social Studies.
